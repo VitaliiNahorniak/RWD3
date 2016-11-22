@@ -1,7 +1,6 @@
 * {
 	margin: 0;
 	padding: 0;
-	border-radius: 50px;
 }
 .main {
 	width: 100%;
@@ -10,7 +9,7 @@
 .header {
 	height: 12vh;
 	background: blue;
-	margin: 1rem auto;
+	margin: 1rem 1rem;
 }
 .navbar, .content, .sidebar {
 	display: inline-block;
